@@ -11,12 +11,6 @@ It fetches real-time exchange rates from an API and allows users to convert curr
 - 🚩 Dynamic country flags  
 - 🎨 Clean and responsive UI  
 
----
-
-## 🚀 Live Demo  
-👉 [View the live demo](https://saitejavurukonda.github.io/currencyconverter/)  
-
----
 
 ## 🛠️ Technologies Used  
 - HTML5  
