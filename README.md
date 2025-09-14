@@ -1,27 +1,33 @@
 
-# 💱 Currency Converter  
+# 💱 Currency Converter
 
-A simple and responsive **Currency Converter** web app built using **HTML, CSS, and JavaScript**.  
-It fetches real-time exchange rates from an API and allows users to convert currencies easily with country flags.  
+A simple and responsive **Currency Converter** web app built using **HTML, CSS, and JavaScript**.
+It fetches real-time exchange rates from an API and allows users to convert currencies easily with country flags.
 
----
-
-## 📌 Features  
-- 🌍 Convert any currency in real-time  
-- 🚩 Dynamic country flags  
-- 🎨 Clean and responsive UI  
-
-
-## 🛠️ Technologies Used  
-- HTML5  
-- CSS3  
-- JavaScript (ES6)  
-- Exchange Rate API  
-- Flags API  
+**🌐 Live Demo:** [Try it here](https://saitejavurukonda.github.io/currencyconverter/)
 
 ---
 
-## 📂 Project Structure  
+## 📌 Features
+
+* 🌍 Convert any currency in real-time
+* 🚩 Dynamic country flags
+* 🎨 Clean and responsive UI
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Exchange Rate API
+* Flags API
+
+---
+
+## 📂 Project Structure
+
 ```bash
 currencyconverter/
 ├── index.html
@@ -29,7 +35,7 @@ currencyconverter/
 ├── app.js
 ├── codes.js
 └── README.md
-````
+```
 
 ---
 
@@ -48,5 +54,10 @@ index.html
 
 ---
 
-💡 Made with ❤️ by [Saiteja Vurukonda](https://github.com/Saitejavurukonda)
+## 🌐 Live Demo
 
+Check it out: [https://saitejavurukonda.github.io/currencyconverter/](https://saitejavurukonda.github.io/currencyconverter/)
+
+---
+
+💡 Made with ❤️ by [Saiteja Vurukonda](https://github.com/Saitejavurukonda)
